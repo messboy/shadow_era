@@ -1,0 +1,235 @@
+！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+
+CotC
+
+！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+Jowie Aderes
+se001-se013, se016, se021-se022, se024, se026, se029-se032, se037, se039-se044, se050, se053, se056, se058, se065
+
+Kitt Lapena
+se014-se015, se019-se020, se023, se028, se033, se036, se045-se048, se051, se054, se057, se059, se066-se080, se085-se094, se096-se110, se120-se155, se161-se201, 
+
+Jesse Cutler
+se017-se018, se049, se061-se064, se081-se084, se111-se119, 
+
+Riccardo Guimaraes
+se025, se027, se052, se055, se157, 
+
+Pablo Fernandez
+se035, se038, 
+
+Jun Kang(?)
+se034
+
+Frankell Baramdyka
+se060
+
+Vuk Kostic
+se095, 
+
+Steve Goad
+se156, 
+
+Ricardo van Duuren
+se158-se160, 
+
+
+！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+
+DP
+
+！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+Alex Tooth
+ex001, ex125, 
+
+Ryan Ching
+ex002, 
+
+Alayna Lemmer
+ex003, ex106, ex123, ex155, 
+
+Trias Digital
+ex004-ex006, ex009-ex010, ex012-ex017, ex020-ex023, ex025, ex027, ex034-037, ex039, ex041-ex045, ex047-ex049, ex051-ex052, ex054-ex055, ex058-ex067, ex070-ex079, ex081-ex099, ex101, ex103-ex105, ex107, ex109, ex113, ex115-ex119, ex122, ex127, ex129-ex136, ex138-ex147, ex149-ex150, 
+
+Mateusz Ozminski
+ex007, ex019, ex026, ex028, ex056, ex111, 
+
+Eve Ventrue
+ex008, 
+
+Viktor Fetsch
+ex011, ex032-ex033, ex046, ex050, 
+
+Vuk Kostic
+ex018, ex021, ex029, ex038, ex126, ex154, 
+
+Jian Guo
+ex021, ex024, ex068, ex114, ex121, ex137, 
+
+Pablo Fernandez
+ex030, ex069, 
+
+Dleoblack
+ex031, ex040, ex080, 
+
+Simon Palmer
+ex053, ex057, 
+
+Zselt Kosa
+ex100, ex128, 
+
+Rahul Philip
+ex102, ex112, ex124, 
+
+Kitt Lapena
+ex108, ex110, ex148, ex153, 
+
+Wang Ling
+ex120, 
+
+Carios Diaz Asenjo
+ex151, 
+
+Ramon Puasa Jr
+ex152, 
+
+
+！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+
+SF
+
+！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+Thien Nguyen
+sf001, sf003-sf005, sf035, sf042, sf044, sf047, sf057-sf058, sf060, sf068, sf070-sf071, sf075, sf086, sf159, sf162, sf165, sf168, sf202, 
+
+dleoblack
+sf002, sf015, sf064, af136, 
+
+Brian Valeza
+sf006, sf008, sf056, sf141, sf144, sf148, sf157, 
+
+Somersade Raspad
+sf007, 
+
+Riccardo Zoppello
+sf009, 
+
+Zsolt Kosa
+af010, sf029, sf067, sf074, sf090, 
+
+Kitt Lapena
+sf011, sf020, sf046, sf052, sf089, 
+
+Nguyen Danh
+sf012, sf032, sf045, sf111-sf112, sf116, sf118-sf120, sf133, sf191, sf197, sf200, 
+
+Alayna Lemmer
+sf013, sf023-sf026, sf030, sf063, sf098, sf100, sf140, 
+
+Shawn Kennedy
+sf016, sf081, sf101, sf103, sf106, sf108-sf110, sf121-sf130, sf149, sf151, sf181, sf186, sf188, sf195, 
+
+Eve Ventrue
+sf017, sf021, sf034, sf084, sf107, sf138, 
+
+Viktor Fetsch
+sf018, 
+
+Gavin Livingston
+sf019, sf022, sf077, sf093, sf134, sf139, sf161, 
+
+Manthos Lappas
+sf027, sf050, sf072, 
+
+Ryan Ching
+sf028, sf066, 
+
+Unknown Artist
+sf031, sf082, sf097, sf099, sf113, sf117, sf132, sf135, sf142, sf167, sf169, sf174, sf178, sf183, sf194, sf196, 
+
+Vuk Kostic
+sf033, sf040, sf048, sf053, sf055, sf059, sf073, sf094-sf095, sf145, 
+
+Chris Malidore
+sf036, sf087, sf154, 
+
+Jian Guo
+sf038, sf062, sf076, sf080, sf201��
+
+Pablo Fernandez
+sf039, sf069, sf155, 
+
+Alan Vadell
+sf041, 
+
+Ramon Puasa Jr
+sf043, sf051, sf131, 
+
+Frankell Baramdyka
+sf049, sf150, sf158, 
+
+Carlos Diaz Asenjo
+sf054, sf146, sf160, 
+
+Federico Musetti
+sf061, 
+
+Wang Ling
+sf065, sf085, 
+
+Brian Fajardo
+sf078, 
+
+Le Mpeh Cvong(?)
+sf079, sf171, 
+
+Ricardo van Duuren
+sf083, 
+
+Carolina Machado
+sf088, sf184, 
+
+Ilya Shkipin
+sf091, sf096, sf163, 
+
+Josh Corpuz
+sf092, 
+
+Trias Digital
+sf102, sf104-sf105, sf176, sf185, 
+
+Teeru Genshin(?)
+sf114, sf173, sf175, sf180, sf189, sf198, 
+
+Fablo Rodrigues(?)
+sf115, 
+
+Alex Tooth
+sf137, 
+
+Mateusz Ozminski
+sf143, sf147, sf199, 
+
+Justin Mayhow(?)
+sf152, sf172, 
+
+Simon Palmer
+sf153, 
+
+Rahul Philip
+sf156, 
+
+Linai Phung
+sf177, 
+
+Xuan Phu Nguyen
+sf179, 
+
+Duy Phan
+sf187, 
+
+Joshua Calloway
+sf193, 
+
+
+Mikael Leger
